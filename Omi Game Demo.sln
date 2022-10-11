@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pocker game demo", "pocker game demo\pocker game demo.csproj", "{473195C2-EE4E-451B-B380-FB70A6D262B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omi Game Demo", "pocker game demo\Omi Game Demo.csproj", "{473195C2-EE4E-451B-B380-FB70A6D262B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
